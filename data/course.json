@@ -1,0 +1,27 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Quantum Mechanics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "66d9a5a6-e651-343c-7485-50be97a250d3"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Quantum Physics III",
+  "course_description": "Together, this course and its predecessor, [8.05: Quantum Physics II](/courses/8-05-quantum-physics-ii-fall-2013/), cover quantum physics with applications drawn from modern physics. Topics in this course include units, time-independent approximation methods, the structure of one- and two-electron atoms, charged particles in a magnetic field, scattering, and time-dependent perturbation theory. In this second term, students are required to research and write a paper on a topic related to the content of 8.05 and 8.06.\n",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.06",
+  "learning_resource_types": [
+    "Projects"
+  ],
+  "title": "Course Metadata"
+}
